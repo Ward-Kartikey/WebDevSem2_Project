@@ -1,0 +1,11 @@
+1-  git init 
+2-  git config --global username "Ward-Kartikey"
+    git config --global user email "21kartikey21@gmail.com"
+3-  git config --list
+4-  git status 
+5-  git add filename / git add
+6-  git commit -m "first commit"
+7-  git remote add origin Repolink
+8-  git remote -v
+9-  git push --set-upstream origin main/git push -v origin master
+10- git push 
